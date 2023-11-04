@@ -24,3 +24,5 @@ function createNoteElement() { //this function is purely responsible for creatin
 btnAddNote.addEventListener ("click", () => { //this is the event listener that will listen for the click on the button, this says that when the button is clicked, the function will run
     const note = createNoteElement(); //were gonna be defining this function between the constants and the event listener
 });
+
+
