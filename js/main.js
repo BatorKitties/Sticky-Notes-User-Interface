@@ -26,3 +26,4 @@ btnAddNote.addEventListener ("click", () => { //this is the event listener that 
 });
 
 
+
